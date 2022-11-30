@@ -5,8 +5,6 @@
 
 # [Xingmin Wang](https://xingminw.github.io/)
 
-[AACVTE live website](http://aacvlive.umtri.umich.edu/home.html)
-
 > - Traffic network model
 > - Traffic signal optimization
 > - Connected and automated vehicles
